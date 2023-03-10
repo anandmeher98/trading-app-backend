@@ -1,0 +1,22 @@
+const trade = [
+  {
+    tradeStatus: "yes",
+    market: "options",
+    account: "fyers",
+    instrument: "NIFTY",
+    action: "buy",
+    system: "1min",
+    timeFrame: "1",
+    entryDateTime: "2023-01-08T10:20:11.411Z",
+    entryPrice: "110",
+    exitDateTime: "2023-01-08T10:20:11.411Z",
+    exitPrice: "124",
+    qty: "100",
+    target: "120",
+    sl: "100",
+    pnl: 1400,
+    fee: "70",
+    highestPrice: "",
+    lowestPrice: "",
+  },
+];

@@ -1,0 +1,5 @@
+1)npm install express
+
+2)npm install --save sequelize
+3)npm i mysql2
+4)npm i cors
